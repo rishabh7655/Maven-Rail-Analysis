@@ -20,3 +20,6 @@
   <li>Departure & Arrival stations</li>
   <li>Ticket prices and other key details</li>
 </ul>
+
+<h2>Conclusion</h2>
+<p>Performed descriptive analysis on Zomato data to identify cuisine trends, customer preferences, ratings, and pricing across countries. Built an interactive dashboard to support business insights and decision-making.</p>
