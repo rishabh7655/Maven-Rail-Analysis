@@ -22,4 +22,4 @@
 </ul>
 
 <h2>Conclusion</h2>
-<p>Performed descriptive analysis on Zomato data to identify cuisine trends, customer preferences, ratings, and pricing across countries. Built an interactive dashboard to support business insights and decision-making.</p>
+<p>This dashboard offers actionable insights to enhance National Rail’s operational efficiency by optimizing peak-hour schedules, boosting revenue through advance bookings, and minimizing delays through infrastructure improvements.</p>
